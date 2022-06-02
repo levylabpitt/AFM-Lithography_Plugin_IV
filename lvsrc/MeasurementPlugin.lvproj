@@ -13,7 +13,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="GAFM_Mockup.vi" Type="VI" URL="../GAFM_Mockup.vi"/>
-		<Item Name="GAFM_Mockup_States.ctl" Type="VI" URL="../GAFM_Mockup_States.ctl"/>
 		<Item Name="GAFMLithography--Plugin--IV_Playground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/GAFMLithography--Plugin--IV_Playground.vi"/>
 		<Item Name="MeasurementSMO.lvclass" Type="LVClass" URL="../MeasurementSMO/MeasurementSMO/MeasurementSMO.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
