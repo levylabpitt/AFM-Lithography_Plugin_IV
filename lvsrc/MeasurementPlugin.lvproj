@@ -15,6 +15,7 @@
 		<Item Name="GAFM_Mockup.vi" Type="VI" URL="../GAFM_Mockup.vi"/>
 		<Item Name="GAFMLithography--Plugin--IV_Playground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/GAFMLithography--Plugin--IV_Playground.vi"/>
 		<Item Name="MeasurementSMO.lvclass" Type="LVClass" URL="../MeasurementSMO/MeasurementSMO/MeasurementSMO.lvclass"/>
+		<Item Name="Run IV Curve Plugin.vi" Type="VI" URL="../MeasurementSMO/Run IV Curve Plugin.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
