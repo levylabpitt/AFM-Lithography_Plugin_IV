@@ -12,9 +12,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="AFM_Litho_Plugin.Data.lvclass" Type="LVClass" URL="../AFM_Litho_Plugin.Data/AFM_Litho_Plugin.Data.lvclass"/>
+		<Item Name="AFM_Litho_Plugin.IV.lvclass" Type="LVClass" URL="../MeasurementSMO/MeasurementSMO/AFM_Litho_Plugin.IV.lvclass"/>
 		<Item Name="GAFM_Mockup.vi" Type="VI" URL="../GAFM_Mockup.vi"/>
 		<Item Name="GAFMLithography--Plugin--IV_Playground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/GAFMLithography--Plugin--IV_Playground.vi"/>
-		<Item Name="MeasurementSMO.lvclass" Type="LVClass" URL="../MeasurementSMO/MeasurementSMO/MeasurementSMO.lvclass"/>
 		<Item Name="Run IV Curve Plugin.vi" Type="VI" URL="../MeasurementSMO/Run IV Curve Plugin.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
