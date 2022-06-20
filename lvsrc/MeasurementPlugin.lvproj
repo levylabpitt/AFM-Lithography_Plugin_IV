@@ -14,6 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AFM_Litho_Plugin.Data.lvclass" Type="LVClass" URL="../AFM_Litho_Plugin.Data/AFM_Litho_Plugin.Data.lvclass"/>
 		<Item Name="AFM_Litho_Plugin.IV.lvclass" Type="LVClass" URL="../MeasurementSMO/MeasurementSMO/AFM_Litho_Plugin.IV.lvclass"/>
+		<Item Name="CreateNewFolder.ctl" Type="VI" URL="../Controls/CreateNewFolder.ctl"/>
 		<Item Name="GAFM_Mockup.vi" Type="VI" URL="../GAFM_Mockup.vi"/>
 		<Item Name="GAFMLithography--Plugin--IV_Playground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/GAFMLithography--Plugin--IV_Playground.vi"/>
 		<Item Name="Run IV Curve Plugin.vi" Type="VI" URL="../MeasurementSMO/Run IV Curve Plugin.vi"/>
