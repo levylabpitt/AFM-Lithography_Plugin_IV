@@ -17,6 +17,7 @@
 		<Item Name="CreateNewFolder.ctl" Type="VI" URL="../Controls/CreateNewFolder.ctl"/>
 		<Item Name="GAFM_Mockup.vi" Type="VI" URL="../GAFM_Mockup.vi"/>
 		<Item Name="GAFMLithography--Plugin--IV_Playground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/GAFMLithography--Plugin--IV_Playground.vi"/>
+		<Item Name="MessagingPlayground.vi" Type="VI" URL="../MeasurementSMO/MeasurementSMO/MessagingPlayground.vi"/>
 		<Item Name="Run IV Curve Plugin.vi" Type="VI" URL="../MeasurementSMO/Run IV Curve Plugin.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
